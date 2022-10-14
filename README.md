@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Adnan sami</h1>
+<h1 align="center">Hi 👋, I'm Md Adnan Sami</h1>
 <h3 align="center">A passionate Student/developer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development/Data Structures and Algorithms**
