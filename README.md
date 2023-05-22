@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Adnan Sami</h1>
-<h3 align="center">A passionate Student/developer from India</h3>
+<h3 align="center">A passionate software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development/Data Structures and Algorithms**
+- 🌱 I am a**Full Stack Web Development/**
 
 - 📫 How to reach me **mdadnansami9381@gmail.com**
 # 📊 GitHub Stats:
