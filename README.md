@@ -9,11 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hittitech&theme=aura&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hittitech&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-<h3 align="left">Connect with me::</h3>
-<p align="left">
-<a href="https://twitter.com/adnan9381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adnan9381" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mdadnansami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdadnansami" height="30" width="40" /></a>
-</p>
+
 
 |               |           |
 |       ---     |    ---    |
@@ -22,3 +18,8 @@
 | `Technologies Used`  | ![NodeJS](https://img.shields.io/badge/-Node-orange?color=8BBF3F&style=for-the-badge&logo=NODE&logoColor=white&logoWidth=20) ![NPM](https://img.shields.io/badge/-NPM-brightgreen?color=DC2C34&style=for-the-badge&logo=NPM&logoColor=white&logoWidth=20) ![Express](https://img.shields.io/badge/-Express-orange?color=8BBF3F&style=for-the-badge&logo=Express&logoColor=white&logoWidth=20) |
 | `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-AA42F1.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/-canva-white?style=for-the-badge&logo=canva&logoColor=white&logoWidth=20&color=01C4CD)|
 
+<h3 align="left">Connect with me::</h3>
+<p align="left">
+<a href="https://twitter.com/adnan9381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adnan9381" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdadnansami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdadnansami" height="30" width="40" /></a>
+</p>
