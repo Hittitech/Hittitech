@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Adnan Sami</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
-- 🌱 I am a**Full Stack Web Development/**
+- 🌱 I am a**Full Stack Web Developer**
 
 - 📫 How to reach me **mdadnansami9381@gmail.com**
 # 📊 GitHub Stats:
