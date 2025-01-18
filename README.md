@@ -1,8 +1,6 @@
  <h1 align="center">Hi 👋, I'm Md Adnan Sami</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
-- 🌱 I am a **Full Stack Developer**
-
 - 📫 mail id: **mdadnansami9381@gmail.com**
 # 📊 GitHub Stats:-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hittitech&theme=aura&hide_border=false)<br/>
