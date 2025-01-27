@@ -2,8 +2,7 @@
 <h3 align="center">A passionate software Engineer from India</h3>
 
 - 📫 mail id: **mdadnansami9381@gmail.com**
-# 📊 GitHub Stats:-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hittitech&theme=aura&hide_border=false)<br/>
+- 🔗 Portfolio: [mdadnansami.com](https://mdadnansami.vercel.app/)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hittitech&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 - Experienced in front-end and back-end development, deploying applications on the cloud, setting up CI/CD pipelines, and containerization.
 - Skilled in building scalable and efficient web applications with a strong focus on quality.
