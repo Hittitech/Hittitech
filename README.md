@@ -3,7 +3,6 @@
 
 - 📫 mail id: **mdadnansami9381@gmail.com**
 - 🔗 Portfolio: [mdadnansami.com](https://mdadnansami.vercel.app/)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hittitech&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 - Experienced in front-end and back-end development, deploying applications on the cloud, setting up CI/CD pipelines, and containerization.
 - Skilled in building scalable and efficient web applications with a strong focus on quality.
 - Over 1500 contributions on GitHub, demonstrating a commitment to delivering high-quality code.
