@@ -3,6 +3,7 @@
 
 - 📫 mail id: **mdadnansami9381@gmail.com**
 - 🔗 Portfolio: [mdadnansami.com](https://mdadnansami.vercel.app/)
+- Founding Member/Engineer at [Bean](https://beantheapp.com)
 - Experienced in front-end and back-end development, deploying applications on the cloud, setting up CI/CD pipelines, and containerization.
 - Skilled in building scalable and efficient web applications with a strong focus on quality.
 - Over 1500 contributions on GitHub, demonstrating a commitment to delivering high-quality code.
