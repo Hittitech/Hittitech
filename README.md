@@ -6,6 +6,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hittitech&theme=aura&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hittitech&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
+- Experienced in front-end and back-end development, deploying applications on the cloud, setting up CI/CD pipelines, and containerization.
+- Skilled in building scalable and efficient web applications with a strong focus on quality.
+- Over 1500 contributions on GitHub, demonstrating a commitment to delivering high-quality code.
+- Worked with multiple startups as a web developer/full-stack intern, delivering freelance projects ranging from simple portfolio sites to full-stack applications.
+- Core stack includes React, Next.js, Node.js, MongoDB, Prisma, and TypeScript.
+- Passionate problem solver with over 500 DSA problems solved across [Leetcode](https://leetcode.com/u/Adnan9381/), CodeChef, HackerRank, and GeeksforGeeks.
+- Founded the Coders Club, which evolved into GDSC@ISL, and co-founded the OSDev Community with 800+ developers and students.
+
 
 
 |               |           |
